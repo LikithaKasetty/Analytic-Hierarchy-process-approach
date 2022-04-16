@@ -1,6 +1,5 @@
 import pandas
 import streamlit as st
-import matplotlib.pyplot as plt
 
 #Analytic Hierarchy process approach(AHP)
 #Goal: Buying a wallet
